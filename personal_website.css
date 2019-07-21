@@ -86,7 +86,7 @@
  padding-right: 4em
 }
 
-#work {
+#work{
     position: absolute;
     top: 1470px;
     left: 100px;
@@ -103,4 +103,55 @@
     border: 1px solid black;
     width: 525px;
     height: 0px;
+}
+
+#sunlife{
+    position: absolute;
+    font-family: CeraCY-Medium;
+    font-size: 32px;
+    color: black;
+    top: 1710px;
+    left: 250px;
+    right: 100px;
+}
+
+#sunlifeimg{
+    position: absolute;
+    top: 1660px;
+    left: 650px;
+    right: 100px;
+}
+
+#tophat{
+    position: absolute;
+    font-family: CeraCY-Medium;
+    font-size: 32px;
+    color: black;
+    top: 1600px;
+    left: 250px;
+    right: 100px;
+}
+
+#tophatimg{
+    position: absolute;
+    top: 1570px;
+    left: 650px;
+    right: 100px;
+}
+
+#aig{
+    position: absolute;
+    font-family: CeraCY-Medium;
+    font-size: 32px;
+    color: black;
+    top: 1825px;
+    left: 250px;
+    right: 100px;
+}
+
+#aigimg{
+    position: absolute;
+    top: 1800px;
+    left: 600px;
+    right: 100px;
 }
